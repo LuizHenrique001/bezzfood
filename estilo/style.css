@@ -5,6 +5,8 @@
     padding: 0px;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
 :root {
     --cor1: rgb(78, 0, 181);
     ;
@@ -94,6 +96,19 @@ main p {
     font-weight: bold;
     padding: 45px;
     line-height: 48px;
+}
+
+.container1 {
+    background-image: url('../imagens/pexels-lumn-604969.jpg');
+    background-size: cover;
+
+}
+
+.container1 h1 {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    padding: 180px 0px 180px 60px;
+    font-size: 56px;
 }
 
 /* Barra de Pesquisa */
