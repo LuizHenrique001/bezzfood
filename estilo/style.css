@@ -101,7 +101,7 @@ main p {
 .container1 {
     background-image: url('../imagens/pexels-lumn-604969.jpg');
     background-size: cover;
-
+    background-attachment: fixed;
 }
 
 .container1 h1 {
