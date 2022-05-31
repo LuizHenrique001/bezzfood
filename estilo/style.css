@@ -111,6 +111,7 @@ main p {
     font-size: 56px;
 }
 
+
 /* Barra de Pesquisa */
 
 .barra_de_pesquisa {
@@ -232,4 +233,19 @@ main p {
 
 .container2 .coluna1 {
     padding-top: 100px;
+}
+
+.container3 {
+    background-image: url('../imagens/pexels-elle-hughes-2696064.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container3 h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 56px;
+    padding: 40px 0px 40px 60px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.433);
 }
